@@ -1,4 +1,4 @@
-# Project aiming at solving the 2-defective coloring using column generation
+#  Column generation for the 2-defective coloring
 
 
 This project implements all algorithms we have tried in order to
@@ -82,4 +82,4 @@ some experimental tries, it seems like they are not needed.
 
 ## How to launch the project
 
-exec <name of the instance> 
+exec <name of the DIMACS instance> 
